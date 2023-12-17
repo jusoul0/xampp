@@ -1,5 +1,6 @@
 # xampp
 Setting up a DB with PHP Mysql via xampp 
+will be appending how to sanatize and hash passwords soon!
 
 download installer and installer from https://www.apachefriends.org/download.html
 
