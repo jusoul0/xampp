@@ -11,7 +11,7 @@ with the unzipped Mywebsite directory
 
 -------------------------------
 
-run the following in http://localhost/phpmyadmin/ sqp tab
+run the following in http://localhost/phpmyadmin/ sql tab
 
 CREATE TABLE users (
 	id INT(11) NOT NULL AUTO_INCREMENT,
